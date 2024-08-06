@@ -218,5 +218,7 @@
     background-repeat: no-repeat no-repeat !important;
     background-position: center center !important;
     background-size: contain !important;
+    filter: grayscale(80%), blur(5px);
+
     width: 60% !important;
 }
