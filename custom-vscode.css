@@ -218,7 +218,6 @@
     background-repeat: no-repeat no-repeat !important;
     background-position: center center !important;
     background-size: contain !important;
-    filter: grayscale(80%) !important;
-
-    width: 60% !important;
+    filter: grayscale(100%) !important;
+    width: 30% !important;
 }
